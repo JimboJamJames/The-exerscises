@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9BD4ABD6-B3CF-412C-AB35-3A4810B737E2}</ProjectGuid>
-    <RootNamespace>Variables</RootNamespace>
+    <ProjectGuid>{84B023A0-AB63-4A8F-811D-7376A0AED175}</ProjectGuid>
+    <RootNamespace>AthroughZ</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
