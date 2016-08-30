@@ -16,8 +16,8 @@ struct PlayerShip
 void main()
 {
 	Player Phillip;
-	
 	printf("Give your Character a Name and a Score");
-	scanf_s("%d %d", &varA, &varB);
-
+	scanf_s("%s %d", Phillip.Name, 80, Phillip.Score);
+	getchar();
+	system("Pause");
 }
