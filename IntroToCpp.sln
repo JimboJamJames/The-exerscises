@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dinosaur", "Dinosaur\Dinosa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Function", "Function\Function.vcxproj", "{CFDD7A2D-3D9A-4C07-966B-23C59F2FF562}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dinosaur 2", "Dinosaur 2\Dinosaur 2.vcxproj", "{817072A2-F032-4DB0-98FD-4BA59641BAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,16 @@ Global
 		{CFDD7A2D-3D9A-4C07-966B-23C59F2FF562}.Release|x64.Build.0 = Release|x64
 		{CFDD7A2D-3D9A-4C07-966B-23C59F2FF562}.Release|x86.ActiveCfg = Release|Win32
 		{CFDD7A2D-3D9A-4C07-966B-23C59F2FF562}.Release|x86.Build.0 = Release|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Debug|x64.ActiveCfg = Debug|x64
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Debug|x64.Build.0 = Debug|x64
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Debug|x86.Build.0 = Debug|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Release|x64.ActiveCfg = Release|x64
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Release|x64.Build.0 = Release|x64
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Release|x86.ActiveCfg = Release|Win32
+		{817072A2-F032-4DB0-98FD-4BA59641BAFA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
